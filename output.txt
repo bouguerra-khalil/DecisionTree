@@ -1,0 +1,31 @@
+Root
+Level 1
+Feature A 0 1
+Gini 0.35714285714285715
+Intermediate
+Level 2
+Feature : C 0
+Gini 0.31999999999999984
+Leaf
+Level 2
+Gini 0
+Intermediate
+Level 3
+Feature : D 0
+Gini 0.2
+Leaf
+Level 3
+Gini 0
+Leaf
+Level 4
+Gini 0
+Intermediate
+Level 4
+Feature : B 0
+Gini 0.0
+Leaf
+Level 5
+Gini 0
+Leaf
+Level 5
+Gini 0
